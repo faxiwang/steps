@@ -1,0 +1,13 @@
+package com.steps.writer_log;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WriterLogApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WriterLogApplication.class, args);
+	}
+
+}

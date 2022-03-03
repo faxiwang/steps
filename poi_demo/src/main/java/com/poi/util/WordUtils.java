@@ -16,6 +16,10 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * @author fax
+ * @date 2021-08-23 11:08
+ */
 public class WordUtils {
 
     /**

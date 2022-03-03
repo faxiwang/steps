@@ -21,8 +21,8 @@ public class TestWord {
     public static void main(String[] args) {
 
         String content = "马邦德：大风起兮云飞扬，安得猛士兮走四方。" +
-                "匪，任何时候都要剿，不剿不行，你想想，你带着老婆出了城，" +
-                "吃着火锅唱着歌，突然就被麻匪劫了，所以，没有麻匪的日子才是好日子！";
+                        "匪，任何时候都要剿，不剿不行，你想想，你带着老婆出了城，" +
+                        "吃着火锅唱着歌，突然就被麻匪劫了，所以，没有麻匪的日子才是好日子！";
 
         Map<String, Object> params = new HashMap<>();
         params.put("title", "让子弹飞");
